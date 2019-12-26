@@ -12,3 +12,17 @@ C:\Users\Burak\source\repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventor
 C:\Users\Burak\source\repos\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.pdb
 C:\Users\Burak\source\repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.dll
 C:\Users\Burak\source\repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.pdb
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.deps.json
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.runtimeconfig.dev.json
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.dll
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.pdb
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorAssemblyInfo.cache
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorAssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.dll
+C:\Users\Burak\Documents\GitHub\InventoryService\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.pdb
