@@ -22,9 +22,23 @@ namespace Inventory.Services
             return items;
         }
 
+        Dictionary<string, InventoryItems> IInventorServices.DeleteInventoryItems(InventoryItems items)
+        {
+
+            bool item = _inventoryItems.ContainsKey(items.ItemName);
+            if (item) 
+            {
+                _inventoryItems.Remove(items.ItemName);
+            }
+
+            return _inventoryItems;
+         
+        }
+
         Dictionary<string, InventoryItems> IInventorServices.GetInventoryItems()
         {
             return _inventoryItems;
         }
+
     }
 }

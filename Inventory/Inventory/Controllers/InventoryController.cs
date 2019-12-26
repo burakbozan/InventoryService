@@ -46,6 +46,20 @@ namespace Inventory.Controllers
 
             return inventoryItems;
         }
+
+        [HttpDelete]
+        [Route("DeleteInventoryItems")]
+        public ActionResult<Dictionary<string, InventoryItems>> DeleteInventoryItems(InventoryItems items)
+        {
+            var inventoryItems = _service.DeleteInventoryItems(items);
+
+            if (inventoryItems.Count == 0)
+            {
+                return NotFound();
+            }
+
+            return inventoryItems;
+        }
     }
 
 }

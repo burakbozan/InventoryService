@@ -10,5 +10,6 @@ namespace Inventory.Services
     {
         InventoryItems AddInventoryItems(InventoryItems items);
         Dictionary<string,InventoryItems> GetInventoryItems();
+        Dictionary<string, InventoryItems> DeleteInventoryItems(InventoryItems items);
     }
 }
